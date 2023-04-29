@@ -14,7 +14,7 @@ class Main(tk.Frame):
         self.parent.maxsize(850, 600)
         self.parent.title("Cholab")
         self.parent.resizable(False, False)
-        # if is not darwin
+        # if sytem is Windows
         if platform.system() == 'Windows':
             self.parent.iconbitmap(default='assets/favicon.ico')
 
