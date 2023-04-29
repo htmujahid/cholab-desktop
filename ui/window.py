@@ -1,6 +1,7 @@
-import platform
+import os
 import tkinter as tk
 from tkinter import ttk
+from PIL import Image, ImageTk
 
 import ui.screens.home as home
 import ui.screens.search as search
@@ -19,12 +20,13 @@ class Window(tk.Frame):
 
     def create_splash(self):
         root = self.parent
-
-        self.background = tk.PhotoImage(file='./assets/Background.png')
-        self.backphoto = tk.Label(root, image=self.background)
+        image_path = Image.open(os.path.join('assets', 'Background.png'))
+        self.background = ImageTk.PhotoImage(image_path)
+        self.backphoto = tk.Label(image=self.background)
         self.backphoto.place(x=-76, y=-115)
 
-        self.get_started_img = tk.PhotoImage(file='assets/GetStarted.png')
+        image_path = Image.open(os.path.join('assets', 'GetStarted.png'))
+        self.get_started_img = ImageTk.PhotoImage(image_path)
         style = ttk.Style(root)
         style.configure('g.TButton', font=(
             'Times', 30, 'bold', 'underline'), background='yellow')

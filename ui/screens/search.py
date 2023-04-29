@@ -1,7 +1,10 @@
+import os
 import tkinter as tk
 from tkinter import ttk
 from tkinter import messagebox
 from tkinter import filedialog
+
+from PIL import Image, ImageTk
 
 import utils.search as search
 
@@ -24,7 +27,8 @@ class Search(tk.Frame):
         self.symbolv = tk.StringVar()
         self.atomicv = tk.StringVar()
 
-        tab1bg = tk.PhotoImage(file='assets/Capture1.png')
+        image_path = Image.open(os.path.join('assets', 'Capture1.png'))
+        tab1bg = ImageTk.PhotoImage(image_path)
         bgtab1 = tk.Label(self.parent, image=tab1bg)
         bgtab1.place(x=0, y=0)
         bgtab1.image = tab1bg
