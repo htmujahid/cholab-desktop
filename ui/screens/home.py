@@ -16,6 +16,6 @@ class Home(tk.Frame):
         theme1 = ImageTk.PhotoImage(image_path)
         them1 = tk.Label(self.parent, image=theme1)
         them1.place(x=-50, y=-22)
-        them1.image = theme1
+        # them1.image = theme1
 
         periodic.PeriodicTable(self.parent)
