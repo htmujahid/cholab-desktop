@@ -15,7 +15,7 @@ class Main(tk.Frame):
         self.parent.title("Cholab")
         self.parent.resizable(False, False)
         # if is not darwin
-        if platform.system() != 'Darwin':
+        if platform.system() == 'Windows':
             self.parent.iconbitmap(default='assets/favicon.ico')
 
     def init_ui(self):
