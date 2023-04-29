@@ -1,7 +1,6 @@
 import os
 import tkinter as tk
 from tkinter import ttk
-from PIL import Image, ImageTk
 
 import ui.widgets.periodic as periodic
 
@@ -13,13 +12,6 @@ class Periodic(tk.Frame):
         self.create_periodic_tab()
 
     def create_periodic_tab(self):
-        image_path = Image.open(os.path.join('assets', 'theme.png'))
-
-        theme1 = ImageTk.PhotoImage(image_path)
-        them1 = tk.Label(self.parent, image=theme1)
-        them1.place(x=50, y=0)
-        them1.image = theme1
-
         self.periodic = periodic.PeriodicTable(self.parent)
 
         self.create_control_buttons()
