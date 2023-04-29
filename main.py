@@ -1,11 +1,8 @@
 import platform
 import tkinter as tk
-from tkinter import ttk
-from tkinter import messagebox
 
 import ui.window as window
 
-import ui.screens.home as home
 
 class Main(tk.Frame):
     def __init__(self, parent):
@@ -13,13 +10,15 @@ class Main(tk.Frame):
         self.parent = parent
 
         self.parent.geometry('850x600+120+80')
-        self.parent.minsize(850,600)
-        self.parent.maxsize(850,600)
+        self.parent.minsize(850, 600)
+        self.parent.maxsize(850, 600)
         self.parent.title("Cholab")
+        self.parent.resizable(False, False)
+        self.parent.iconbitmap(default='assets/favicon.ico')
 
     def init_ui(self):
         self.window = window.Window(self.parent)
-        
+
 
 def main():
     print("Cholab launched!")
@@ -28,6 +27,7 @@ def main():
     app = Main(root)
     app.init_ui()
     root.mainloop()
+
 
 if __name__ == '__main__':
     main()
