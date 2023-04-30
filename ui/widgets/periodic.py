@@ -31,16 +31,16 @@ class PeriodicTable(tk.Frame):
     def configure_styles(self):
         stylee = ttk.Style()
         stylee.configure('e.TButton', background='#0E8A00',
-                         foreground='#0E8A00', width=5)
+                         foreground='black', width=3)
         styley = ttk.Style()
         styley.configure('y.TButton', background='#9B870C',
-                         foreground='#9B870C', width=5)
+                         foreground='black', width=3)
         styleo = ttk.Style()
         styleo.configure('o.TButton', background='#ff8c00',
-                         foreground='#ff8c00', width=5)
+                         foreground='black', width=3)
         stylep = ttk.Style()
         stylep.configure('p.TButton', background='#e75480',
-                         foreground='#e75480', width=5)
+                         foreground='black', width=3)
 
     def get_element_text(self, element_position):
         return elements_info[element_position['symbol']]['Symbol'] + '\n' + elements_info[element_position['symbol']][self.active_property]

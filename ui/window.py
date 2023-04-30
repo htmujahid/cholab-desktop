@@ -43,8 +43,12 @@ class Window(tk.Frame):
     def create_tabs(self):
         root = self.parent
         style = ttk.Style(root)
-        style.configure('lefttab.TNotebook', tabposition='wn')
-        TAB_CONTROL = ttk.Notebook(root, style='lefttab.TNotebook', width=200)
+        style.theme_create("custom_tabs", parent="alt", settings={"lefttab.TNotebook.Tab": {"configure": {"padding": [10, 10, 10, 10]}}})
+        style.theme_use("custom_tabs")
+        style.configure('lefttab.TNotebook', tabposition='wn', background='white', borderwidth=0, highlightthickness=0)
+        TAB_CONTROL = ttk.Notebook(root, style='lefttab.TNotebook', padding=0)
+
+        style.configure('lefttab.TNotebook.Tab', background='white')
 
         self.home_tab = tk.Frame(TAB_CONTROL)
         TAB_CONTROL.add(self.home_tab, text="\n   Home                  \n")

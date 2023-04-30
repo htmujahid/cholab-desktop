@@ -19,7 +19,7 @@ class Search(tk.Frame):
                 symbol = tk.StringVar()
                 symbol.set(element['Symbol'])
                 search_occurence = True
-                information.InformationWindow(self.parent, symbol)
+                information.InformationWindow(symbol)
         if not search_occurence:
             messagebox.showerror("Error", "Your Entry is wrong")
 
@@ -31,7 +31,7 @@ class Search(tk.Frame):
                 symbol = tk.StringVar()
                 symbol.set(element['Symbol'])
                 search_occurence = True
-                information.InformationWindow(self.parent, symbol)
+                information.InformationWindow(symbol)
         if not search_occurence:
             messagebox.showerror("Error", "Your Entry is wrong")
 
@@ -44,6 +44,6 @@ class Search(tk.Frame):
                 symbol = tk.StringVar()
                 symbol.set(element['Symbol'])
                 search_occurence = True
-                information.InformationWindow(self.parent, symbol)
+                information.InformationWindow(symbol)
         if not search_occurence:
             messagebox.showerror("Error", "Your Entry is wrong")
