@@ -15,7 +15,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'H-1, H-2, H-3',
         # Interesting Information
-        'i-info': 'Hydrogen makes up 75% of all the\n matter in the universe by mass.'
+        'i-info': 'Hydrogen makes up 75% of all the matter in the universe by mass.'
     },
     # --------------------- Helium ------------------
     'He': {
@@ -34,7 +34,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'He-3, He-4',
         # Interesting Information
-        'i-info': 'A mixture of helium and oxygen is used \nto create an artificial atmosphere for \ndivers.'
+        'i-info': 'A mixture of helium and oxygen is used to create an artificial atmosphere for divers.'
     },
 
     # --------------------- Lithium ------------------
@@ -54,7 +54,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Li-6, Li-7',
         # Interesting Information
-        'i-info': 'The transmutation of lithium to tritium \nwas the first man-made nuclear fusion \nreaction.'
+        'i-info': 'The transmutation of lithium to tritium was the first man-made nuclear fusion reaction.'
     },
     # --------------------- Beryllium ------------------
     'Be': {
@@ -75,7 +75,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Be-7, Be-9, Be-10',
         # Interesting Information
-        'i-info': 'Beryllium is sometimes used to make the \nwindows for X-ray machines.'
+        'i-info': 'Beryllium is sometimes used to make the windows for X-ray machines.'
     },
 
     # --------------------- Boron ------------------
@@ -95,7 +95,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'B-10, B-11',
         # Interesting Information
-        'i-info': 'Elemental boron is mostly used in high \ntech applications.'
+        'i-info': 'Elemental boron is mostly used in high tech applications.'
     },
 
     # --------------------- Carbon ------------------
@@ -115,7 +115,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'C-11, C-12, C-13, C-14',
         # Interesting Information
-        'i-info': 'About 20% of the weight of living organisms \nis Carbon.'
+        'i-info': 'About 20% of the weight of living organisms is Carbon.'
     },
 
     # --------------------- Nitrogen ------------------
@@ -137,7 +137,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'N-14, N-15',
         # Interesting Information
-        'i-info': 'The orange-red, blue-green, blue-violet \nand deep violet colors of the aurora are \ndue to Nitrogen.'
+        'i-info': 'The orange-red, blue-green, blue-violet and deep violet colors of the aurora are due to Nitrogen.'
     },
 
     # --------------------- Oxygen ------------------
@@ -158,7 +158,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'O-16, O-17, O-18',
         # Interesting Information
-        'i-info': 'The standard for atomic mass of other \nelements was Oxygen upto 1961 when it \nwas replaced by Carbon-12.'
+        'i-info': 'The standard for atomic mass of other elements was Oxygen upto 1961 when it was replaced by Carbon-12.'
     },
 
     # --------------------- Fluorine ------------------
@@ -178,7 +178,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'F-18, F-19',
         # Interesting Information
-        'i-info': 'Fluorine is the most chemically reactive \nelement.'
+        'i-info': 'Fluorine is the most chemically reactive element.'
     },
 
     # --------------------- Neon ------------------
@@ -197,7 +197,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Ne-20, Ne-21, Ne-22',
         # Interesting Information
-        'i-info': 'Neon is one of the mostly used lighting \nelements.'
+        'i-info': 'Neon is one of the mostly used lighting elements.'
     },
 
     # --------------------- Sodium ------------------
@@ -217,7 +217,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Na-22, Na-23, Na-24',
         # Interesting Information
-        'i-info': 'Sodium helps to maintain the proper\n fluid balance in the body\'s cells'
+        'i-info': 'Sodium helps to maintain the proper fluid balance in the body\'s cells'
     },
 
     # --------------------- Magnesium ------------------
@@ -238,7 +238,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Mg-24, Mg-25, Mg-26',
         # Interesting Information
-        'i-info': 'Magnesium is produced by large stars when \nthey combine helium and neon.'
+        'i-info': 'Magnesium is produced by large stars when they combine helium and neon.'
     },
 
     # --------------------- Aluminium ------------------
@@ -259,7 +259,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Al-26, Al-27',
         # Interesting Information
-        'i-info': 'Aluminium is almost always used as an \nalloy, even if the aluminium content \nis as high as 99%.'
+        'i-info': 'Aluminium is almost always used as an alloy, even if the aluminium content is as high as 99%.'
     },
 
     # --------------------- Silicon ------------------
@@ -279,7 +279,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Si-28, Si-29, Si-30, Si-31, Si-32',
         # Interesting Information
-        'i-info': 'Silicon is almost never found as a \npure free element naturally.'
+        'i-info': 'Silicon is almost never found as a pure free element naturally.'
     },
 
     # --------------------- Phosphorus ------------------
@@ -301,7 +301,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'P-31, P-32, P-33',
         # Interesting Information
-        'i-info': 'Phosphorus is sometimes referred to as \n"Devil\'s Element" because of its \nexplosive properties.'
+        'i-info': 'Phosphorus is sometimes referred to as "Devil\'s Element" because of its explosive properties.'
     },
 
     # --------------------- Sulphur ------------------
@@ -322,7 +322,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'S-32, S-33, S-34, S-35, S-36',
         # Interesting Information
-        'i-info': 'Sulfur has been in use since ancient \ntimes and is mentioned in the Bible \nand the Torah.'
+        'i-info': 'Sulfur has been in use since ancient times and is mentioned in the Bible and the Torah.'
     },
 
     # --------------------- Chlorine ------------------
@@ -344,7 +344,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Cl-35, Cl-36, Cl-37',
         # Interesting Information
-        'i-info': 'Chlorine gas was used by the Germans \nin WWI to poison the Allied \nsoldiers.'
+        'i-info': 'Chlorine gas was used by the Germans in WWI to poison the Allied soldiers.'
     },
 
     # --------------------- Argon ------------------
@@ -364,7 +364,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Ar-36, Ar-37, Ar-38, Ar-39, Ar-40, Ar-41, Ar-42',
         # Interesting Information
-        'i-info': 'Argon is used for preservation of \nhistorical documents.'
+        'i-info': 'Argon is used for preservation of historical documents.'
     },
 
     # --------------------- Potassium ------------------
@@ -383,7 +383,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'K-39, K-40, K-41',
         # Interesting Information
-        'i-info': 'Potassium was the first elemental metal \nto be found through electrolysis.'
+        'i-info': 'Potassium was the first elemental metal to be found through electrolysis.'
     },
 
     # --------------------- Calcium ------------------
@@ -403,7 +403,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Ca-40 to Ca-48',
         # Interesting Information
-        'i-info': 'The average adult body contains about 1 \nkg or 2 lb of calcium, 99% of which is \nin the bones and teeth.'
+        'i-info': 'The average adult body contains about 1 kg or 2 lb of calcium, 99% of which is in the bones and teeth.'
     },
 
     # --------------------- Scandium ------------------
@@ -423,7 +423,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Sc-44 to Sc-48',
         # Interesting Information
-        'i-info': 'Scandium is named for the region of the \nworld in which it was found Scandinavia.'
+        'i-info': 'Scandium is named for the region of the world in which it was found Scandinavia.'
     },
 
     # --------------------- Titanium ------------------
@@ -444,7 +444,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Ti-44, Ti 46 to Ti-50',
         # Interesting Information
-        'i-info': 'Titanium can be as strong as steel, \nbut with weighs as much as 45% \nlighter than steel.'
+        'i-info': 'Titanium can be as strong as steel, but with weighs as much as 45% lighter than steel.'
     },
 
     # --------------------- Vanadium ------------------
@@ -465,7 +465,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'V-48 to V-52',
         # Interesting Information
-        'i-info': 'One of the first uses of vanadium was\n in the steel chassis of the 1908 Model \nT Ford.'
+        'i-info': 'One of the first uses of vanadium was in the steel chassis of the 1908 Model T Ford.'
     },
 
     # --------------------- Chromium ------------------
@@ -487,7 +487,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Cr-50 to Cr-54',
         # Interesting Information
-        'i-info': 'Chromium compounds are valued as \npigments for their vivid green, yellow, \nred and orange colors.'
+        'i-info': 'Chromium compounds are valued as pigments for their vivid green, yellow, red and orange colors.'
     },
 
     # --------------------- Manganese ------------------
@@ -509,7 +509,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Mn-52 to Mn-55',
         # Interesting Information
-        'i-info': 'If you pour water on a magnesium \nfire, it will only make the fire worse.'
+        'i-info': 'If you pour water on a magnesium fire, it will only make the fire worse.'
     },
 
     # --------------------- Iron ------------------
@@ -554,7 +554,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Co-56 to Co-60',
         # Interesting Information
-        'i-info': 'Cobalt-60 is used to create gamma \nrays which are used to treat cancer.'
+        'i-info': 'Cobalt-60 is used to create gamma rays which are used to treat cancer.'
     },
 
     # --------------------- Cobalt ------------------
@@ -577,7 +577,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Ni-58 to Ni-64',
         # Interesting Information
-        'i-info': 'Nickel is sometimes added to glass to \ngive it a green color.'
+        'i-info': 'Nickel is sometimes added to glass to give it a green color.'
     },
 
     # --------------------- Copper ------------------
@@ -600,7 +600,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Cu-63, Cu-64, Cu-65, Cu-67',
         # Interesting Information
-        'i-info': 'Copper is vital in small amounts in \nanimals and plants.'
+        'i-info': 'Copper is vital in small amounts in animals and plants.'
     },
 
     # --------------------- Zinc ------------------
@@ -623,7 +623,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Zn-64 to Zn-72',
         # Interesting Information
-        'i-info': 'Zinc makes up 70 milligrams of every \nkilogram of the Earth\'s crust.'
+        'i-info': 'Zinc makes up 70 milligrams of every kilogram of the Earth\'s crust.'
     },
 
     # --------------------- Gallium ------------------
@@ -646,7 +646,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Ga-66 to Ga-73',
         # Interesting Information
-        'i-info': 'One of gallium\'s most interesting \nproperties is its ability to be a liquid \nwhen held in a human hand.'
+        'i-info': 'One of gallium\'s most interesting properties is its ability to be a liquid when held in a human hand.'
     },
 
 
@@ -670,7 +670,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Ge-68, Ge-70 to Ge-74, Ge-76',
         # Interesting Information
-        'i-info': 'Germanium has been found in the \natmosphere of Jupiter and in distant stars.'
+        'i-info': 'Germanium has been found in the atmosphere of Jupiter and in distant stars.'
     },
 
     # --------------------- Arsenic ------------------
@@ -693,7 +693,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'As-73, As-74, As-75',
         # Interesting Information
-        'i-info': 'A large dose of Arsenic can cause \nimmediate sickness and death'
+        'i-info': 'A large dose of Arsenic can cause immediate sickness and death'
     },
 
     # --------------------- Selenium ------------------
@@ -716,7 +716,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Se-72, Se-74 to Se-80, Se-82',
         # Interesting Information
-        'i-info': 'Selenium salts are used to help \ncontrol dandruff.'
+        'i-info': 'Selenium salts are used to help control dandruff.'
     },
 
     # --------------------- Bromine ------------------
@@ -739,7 +739,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Br-79, Br-81',
         # Interesting Information
-        'i-info': 'Bromine does not occur naturally \non Earth as an element.'
+        'i-info': 'Bromine does not occur naturally on Earth as an element.'
     },
 
     # --------------------- Krypton ------------------
@@ -762,7 +762,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Kr-78 to Kr-86',
         # Interesting Information
-        'i-info': 'The definition of a meter was \nformalized in 1960 using Krypton.'
+        'i-info': 'The definition of a meter was formalized in 1960 using Krypton.'
     },
 
     # --------------------- Rubidium ------------------
@@ -785,7 +785,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Rb-83 to Rb-87',
         # Interesting Information
-        'i-info': 'Rubidium was named for its red \ncolored spectroscopic lines.'
+        'i-info': 'Rubidium was named for its red colored spectroscopic lines.'
     },
 
     # --------------------- Strontium ------------------
@@ -808,7 +808,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Sr-82 to Sr-90',
         # Interesting Information
-        'i-info': 'The aritificial radioactive isotope \nSr-89 is used to treat bone cancer.'
+        'i-info': 'The aritificial radioactive isotope Sr-89 is used to treat bone cancer.'
     },
 
     # --------------------- Yttrium ------------------
@@ -831,7 +831,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Y-87 to Y-91',
         # Interesting Information
-        'i-info': 'Whenever yttrium is sliced into shavings \nor small particles, it actually becomes \nunstable.'
+        'i-info': 'Whenever yttrium is sliced into shavings or small particles, it actually becomes unstable.'
     },
 
     # --------------------- Zirconium ------------------
@@ -852,7 +852,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Zr-88, Zr-89, Zr-90, Zr-91, Zr-92, Zr-93, Zr-94, Zr-96',
         # Interesting Information
-        'i-info': 'Both its physical and chemical properties \nare very similar to those of Titanium.'
+        'i-info': 'Both its physical and chemical properties are very similar to those of Titanium.'
     },
 
     # --------------------- Niobium ------------------
@@ -875,7 +875,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Nb-90, Nb-91, Nb-92, Nb-93, Nb-94, Nb-96',
         # Interesting Information
-        'i-info': 'Niobium\'s original name was\n Columbium.'
+        'i-info': 'Niobium\'s original name was Columbium.'
     },
 
     # --------------------- Molybdenum ------------------
@@ -898,7 +898,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Mo-92, Mo-93, Mo-94, Mo-95, Mo-96, Mo-97, Mo-98, Mo-99, Mo-100',
         # Interesting Information
-        'i-info': 'Molybdenum was used in British Tanks \nin WWI.'
+        'i-info': 'Molybdenum was used in British Tanks in WWI.'
     },
 
     # --------------------- Technetium ------------------
@@ -921,7 +921,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Tc-95, Tc-96, Tc-97, Tc-98, Tc-99',
         # Interesting Information
-        'i-info': 'Technetium is the only element that \nis artificially produced.'
+        'i-info': 'Technetium is the only element that is artificially produced.'
     },
 
     # --------------------- Ruthenium ------------------
@@ -942,7 +942,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Ru-96, Ru-97, Ru-98, Ru-98, Ru-100, Ru-101, Ru-102, Ru-103, Ru-104, Ru-106',
         # Interesting Information
-        'i-info': 'Ruthenium was the last of the \nplatinum group metals to be discovered.'
+        'i-info': 'Ruthenium was the last of the platinum group metals to be discovered.'
     },
 
     # --------------------- Rhodium ------------------
@@ -965,7 +965,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Rh-99, Rh-101, Rh-102, Rh-103, Rh-105',
         # Interesting Information
-        'i-info': 'It is considered the rarest and \nmost valuable precious metal.'
+        'i-info': 'It is considered the rarest and most valuable precious metal.'
     },
 
     # --------------------- Palladium ------------------
@@ -987,7 +987,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Pd-100, Pd-102, Pd-103, Pd-104, Pd-105, Pd-106, Pd-107, Pd-108, Pd-110',
         # Interesting Information
-        'i-info': 'Shiny, silvery palladium is the \nelement that gives white gold its \ncolor.'
+        'i-info': 'Shiny, silvery palladium is the element that gives white gold its color.'
     },
 
     # --------------------- Silver ------------------
@@ -1010,7 +1010,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Ag-105, Ag-106, Ag-107, Ag-108, Ag-109, Ag-110, Ag-111',
         # Interesting Information
-        'i-info': 'Of all the metals, silver also \nhas the highest thermal conductivity.'
+        'i-info': 'Of all the metals, silver also has the highest thermal conductivity.'
     },
 
     # --------------------- Cadmium ------------------
@@ -1033,7 +1033,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Cd-106, Cd-107, Cd-108, Cd-109, Cd-110, Cd-111, Cd-112, Cd-113, Cd-114, Cd-115, Cd-116',
         # Interesting Information
-        'i-info': 'Being an excellent conductor\n Cadmium is often used in electroplating.'
+        'i-info': 'Being an excellent conductor Cadmium is often used in electroplating.'
     },
 
     # --------------------- Indium ------------------
@@ -1056,7 +1056,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'In-111, In-113, In-115',
         # Interesting Information
-        'i-info': 'ITO (Indium Tin Oxide) is used for \nLCD\'s and other flat panel displays'
+        'i-info': 'ITO (Indium Tin Oxide) is used for LCD\'s and other flat panel displays'
     },
 
     # --------------------- Tin ------------------
@@ -1078,7 +1078,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Sn-112, Sn-114, Sn-115, Sn-116, Sn-117, Sn-118, Sn-119, Sn-120, Sn-122, Sn-124, Sn-126',
         # Interesting Information
-        'i-info': 'Tin has more stable isotopes than \nany other element.'
+        'i-info': 'Tin has more stable isotopes than any other element.'
     },
 
     # --------------------- Antimony ------------------
@@ -1101,7 +1101,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Sb-121, Sb-123, Sb-125',
         # Interesting Information
-        'i-info': 'Antimony was used in ancient Egypt \nas a form of eyeliner (kohl).'
+        'i-info': 'Antimony was used in ancient Egypt as a form of eyeliner (kohl).'
     },
 
     # --------------------- Tellurium ------------------
@@ -1124,7 +1124,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Te-120 to Te-130',
         # Interesting Information
-        'i-info': 'Tellurium plates play a key role \nin solar panel technology.'
+        'i-info': 'Tellurium plates play a key role in solar panel technology.'
     },
 
     # --------------------- Iodine ------------------
@@ -1147,7 +1147,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'I-123, I-124, I-125, I-127, I-129, I-131, I-135',
         # Interesting Information
-        'i-info': 'Most iodine production in the world \ncomes from the caliche in Chile.'
+        'i-info': 'Most iodine production in the world comes from the caliche in Chile.'
     },
 
     # --------------------- Xenon ------------------
@@ -1170,7 +1170,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Xe-124 to Xe-136',
         # Interesting Information
-        'i-info': 'The first solid-state laser and the \nfirst excimer laser relied on xenon.'
+        'i-info': 'The first solid-state laser and the first excimer laser relied on xenon.'
     },
 
     # --------------------- Caesium ------------------
@@ -1194,7 +1194,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Cs-133, Cs-134, Cs-135, Cs-137',
         # Interesting Information
-        'i-info': 'The caesium-potassium-sodium alloy\n has the lowest Melting Pointof any alloy.'
+        'i-info': 'The caesium-potassium-sodium alloy has the lowest Melting Pointof any alloy.'
     },
 
     # --------------------- Barium ------------------
@@ -1218,7 +1218,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Ba-130, Ba-132 to Ba-138',
         # Interesting Information
-        'i-info': 'In the late nineteenth century,\n barium\'s key commercial use was in the\n production of pure Oxygen.'
+        'i-info': 'In the late nineteenth century, barium\'s key commercial use was in the production of pure Oxygen.'
     },
 
     # --------------------- Lanthanum ------------------
@@ -1242,7 +1242,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'La-137, La-138, La-139',
         # Interesting Information
-        'i-info': 'Lanthanum is highly malleable and can \neasily be cut with a knife.'
+        'i-info': 'Lanthanum is highly malleable and can easily be cut with a knife.'
     },
 
     # --------------------- Cerium ------------------
@@ -1266,7 +1266,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Ce-134, Ce-136, Ce-138 to Ce-144',
         # Interesting Information
-        'i-info': 'Cerium is used as a catalytic converter \nfor automobiles to reduce carbon monoxide \nemissions.'
+        'i-info': 'Cerium is used as a catalytic converter for automobiles to reduce carbon monoxide emissions.'
     },
 
     # --------------------- Praeseodymium ------------------
@@ -1290,7 +1290,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Pr-141, Pr-142, Pr-143',
         # Interesting Information
-        'i-info': 'Praseodymium is named from the Greek \nword for green, since it oxidizes slowly \nin air to form a green coating.'
+        'i-info': 'Praseodymium is named from the Greek word for green, since it oxidizes slowly in air to form a green coating.'
     },
     'Nd': {
         # Information
@@ -1311,7 +1311,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Nd-142, Nd-143, Nd-144',
         # Interesting Information
-        'i-info': 'It was first commercially used \nas glass dyes.'
+        'i-info': 'It was first commercially used as glass dyes.'
     },
 
     'Pm': {
@@ -1328,7 +1328,7 @@ elements_info = {
         # Isotopes
         'Isotopes': '-145, -146, -147',
         # Interesting Information
-        'i-info': ' Promethium was the last rare earth element\n of the lanthanide series to be discovered.'
+        'i-info': ' Promethium was the last rare earth element of the lanthanide series to be discovered.'
     },
     'Sm': {
         # Information
@@ -1344,7 +1344,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Sm-144, Sm-145, Sm-146',
         # Interesting Information
-        'i-info': ' Promethium was the last rare earth element \nof the lanthanide series to be discovered.'
+        'i-info': ' Promethium was the last rare earth element of the lanthanide series to be discovered.'
     },
     'Eu': {
         # Information
@@ -1360,7 +1360,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Eu-151, Eu-152, Eu-153',
         # Interesting Information
-        'i-info': 'Europium resembles calcium in its reaction\n with water.'
+        'i-info': 'Europium resembles calcium in its reaction with water.'
     },
     'Gd': {
         # Information
@@ -1376,7 +1376,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Gd-154, Gd-155, Gd-156',
         # Interesting Information
-        'i-info': 'At low temperatures, gadolinium is more\n ferromagnetic than iron.'
+        'i-info': 'At low temperatures, gadolinium is more ferromagnetic than iron.'
     },
     'Tb': {
         # Information
@@ -1392,7 +1392,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Tb-157, Tb-158, Tb-159',
         # Interesting Information
-        'i-info': 'terbium is a fairly electropositive \nmetal'
+        'i-info': 'terbium is a fairly electropositive metal'
     },
     'Dy': {
         # Information
@@ -1408,7 +1408,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Dy-154, Dy-156, Dy-158',
         # Interesting Information
-        'i-info': 'Dysprosium is never found in nature \nas a free element'
+        'i-info': 'Dysprosium is never found in nature as a free element'
     },
     'Ho': {
         # Information
@@ -1424,7 +1424,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'H0-164, Ho-164, Ho,165',
         # Interesting Information
-        'i-info': 'Its oxide was first isolated from \nrare-earth ores in 1878'
+        'i-info': 'Its oxide was first isolated from rare-earth ores in 1878'
     },
     'Er': {
         # Information
@@ -1440,7 +1440,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Er-160, Er-162, Er-164',
         # Interesting Information
-        'i-info': 'Its oxide was first isolated from \nrare-earth ores in 1878'
+        'i-info': 'Its oxide was first isolated from rare-earth ores in 1878'
     },
     'Tm': {
         # Information
@@ -1472,7 +1472,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Yb-170, Yb-171, Yb-172, Yb-173',
         # Interesting Information
-        'i-info': 'It is the fourteenth and penultimate \nelement in the lanthanide series'
+        'i-info': 'It is the fourteenth and penultimate element in the lanthanide series'
     },
     'Lu': {
         # Information
@@ -1488,7 +1488,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Lu-173,Lu-174,Lu-175,Lu-175',
         # Interesting Information
-        'i-info': 'It\'s also the most expensive \nlanthanide'
+        'i-info': 'It\'s also the most expensive lanthanide'
     },
     'Hf': {
         # Information
@@ -1520,7 +1520,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Ta-177,Ta-178,Ta-179,Ta-180',
         # Interesting Information
-        'i-info': 'Tantalum is a rare, hard, blue-gray, \nlustrous transition metal that is highly\n corrosion-resistant.'
+        'i-info': 'Tantalum is a rare, hard, blue-gray, lustrous transition metal that is highly corrosion-resistant.'
     },
     'W': {
         # Information
@@ -1536,7 +1536,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'W-180,W-181,W-183,W-184,W-185',
         # Interesting Information
-        'i-info': 'Tungsten is known as one of the toughest\n things found in nature.'
+        'i-info': 'Tungsten is known as one of the toughest things found in nature.'
     },
     'Re': {
         # Information
@@ -1552,7 +1552,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Re-185,Re-187',
         # Interesting Information
-        'i-info': 'Rhenium has very high boiling and \nmelting points.'
+        'i-info': 'Rhenium has very high boiling and melting points.'
     },
     'Os': {
         # Information
@@ -1568,7 +1568,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Os-184,Os-185,Os-186,Os-187',
         # Interesting Information
-        'i-info': 'Rhenium has very high boiling and \nmelting points.'
+        'i-info': 'Rhenium has very high boiling and melting points.'
     },
     'Ir': {
         # Information
@@ -1584,7 +1584,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Ir-188,Ir-189,Ir-190,Ir-191,Ir-192',
         # Interesting Information
-        'i-info': 'Scientists dissolved platinum in aqua \nregia, only to find a dark residue\n that resembled graphite.'
+        'i-info': 'Scientists dissolved platinum in aqua regia, only to find a dark residue that resembled graphite.'
     },
     'Pt': {
         # Information
@@ -1648,7 +1648,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Ti-203,Ti-204,Ti-205',
         # Interesting Information
-        'i-info': 'Thallium oxidizes quickly in air to produce\n a lead-colored coating.'
+        'i-info': 'Thallium oxidizes quickly in air to produce a lead-colored coating.'
     },
 
     'Pb': {
@@ -1665,7 +1665,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Pb-206,Pb-207,Pb-208',
         # Interesting Information
-        'i-info': 'For many years lead and tin were thought\n to be the same metal. ...'
+        'i-info': 'For many years lead and tin were thought to be the same metal. ...'
 
     },
     'Bi': {
@@ -1683,7 +1683,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Bi-207,Bi-208,Bi-209,Bi-210',
         # Interesting Information
-        'i-info': 'It is stable in oxygen and water and \ndissolves in concentrated nitric acid.'
+        'i-info': 'It is stable in oxygen and water and dissolves in concentrated nitric acid.'
     },
     'Po': {
         # Information
@@ -1700,7 +1700,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Po-208,Po-209,Po-210',
         # Interesting Information
-        'i-info': 'It is hundreds of times more radioactive \nthan uranium.'
+        'i-info': 'It is hundreds of times more radioactive than uranium.'
     },
     'At': {
         # Information
@@ -1716,7 +1716,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'At-209,At-210,At-211',
         # Interesting Information
-        'i-info': 'Astatine is one of the rarest elements on \nEarth.'
+        'i-info': 'Astatine is one of the rarest elements on Earth.'
     },
     'Rn': {
         # Information
@@ -1732,7 +1732,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Rn-210,Rn-211,Rn-222,Rn-224',
         # Interesting Information
-        'i-info': 'Radon is radioactive and decays into other\n radioactive and toxic elements.'
+        'i-info': 'Radon is radioactive and decays into other radioactive and toxic elements.'
     },
     'Fr': {
         # Information
@@ -1748,7 +1748,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Fr-212,Fr-221,Fr-222,Fr-223',
         # Interesting Information
-        'i-info': 'Francium is the second rarest element in\n the Earth\'s crust next to astatine.'
+        'i-info': 'Francium is the second rarest element in the Earth\'s crust next to astatine.'
     },
     'Ra': {
         # Information
@@ -1764,7 +1764,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Ra-223,Ra-224,Ra-225,Ra-226,Ra-228',
         # Interesting Information
-        'i-info': 'The element "curium" is named for the \ndiscoverers of radium.'
+        'i-info': 'The element "curium" is named for the discoverers of radium.'
     },
     'Ac': {
         # Information
@@ -1780,7 +1780,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Ac-225,Ac-226,Ac-227',
         # Interesting Information
-        'i-info': 'It was discovered in pitchblende residues \nafter radium was extracted.'
+        'i-info': 'It was discovered in pitchblende residues after radium was extracted.'
     },
     'Th': {
         # Information
@@ -1796,7 +1796,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Th-227,Th-228,Th-229,Th-230,Th-234',
         # Interesting Information
-        'i-info': 'Thorium is a relatively abundant element \nin the Earth\'s crust.'
+        'i-info': 'Thorium is a relatively abundant element in the Earth\'s crust.'
     },
     'Pa': {
         # Information
@@ -1812,7 +1812,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Pa-229,Pa-230,Pa-231,Pa-232,Pa-234',
         # Interesting Information
-        'i-info': 'May be a possible supporter of creating\n a nuclear chain.'
+        'i-info': 'May be a possible supporter of creating a nuclear chain.'
     },
     'U': {
         # Information
@@ -1844,7 +1844,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Np-235,Np-236,Np-237,Np-239',
         # Interesting Information
-        'i-info': 'Its name is derived from the planet\n Neptune.'
+        'i-info': 'Its name is derived from the planet Neptune.'
     },
     'Pu': {
         # Information
@@ -1860,7 +1860,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Pu-238,Pu-239,Pu-240,Pu-241,Pu-242,Pu-244,',
         # Interesting Information
-        'i-info': 'Plutonium is a member of the actinide \nelement group, which makes it a type of \ntransition metal.'
+        'i-info': 'Plutonium is a member of the actinide element group, which makes it a type of transition metal.'
     },
     'Am': {
         # Information
@@ -1908,7 +1908,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Bk-245,Bk-246,Bk-247,Bk-248,Bk-249',
         # Interesting Information
-        'i-info': 'Berkelium was first produced at the \nUniversity of California.'
+        'i-info': 'Berkelium was first produced at the University of California.'
     },
     'Cf': {
         # Information
@@ -1988,7 +1988,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'No-253,No-254,No-255,No-257,No-259',
         # Interesting Information
-        'i-info': 'Nobelium is made by bombarding curium with\n carbon in a device.'
+        'i-info': 'Nobelium is made by bombarding curium with carbon in a device.'
     },
     'Lr': {
         # Information
@@ -2004,7 +2004,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Lr-254,Lr-255,Lr-256',
         # Interesting Information
-        'i-info': 'Mendelevium serves no biological function\n in organisms.'
+        'i-info': 'Mendelevium serves no biological function in organisms.'
     },
     'Rf': {
         # Information
@@ -2020,7 +2020,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Rf-265,Rf-266,Rf-267',
         # Interesting Information
-        'i-info': 'Rutherfordium can be synthesized in a \nlab.'
+        'i-info': 'Rutherfordium can be synthesized in a lab.'
     },
     'Db': {
         # Information
@@ -2036,7 +2036,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Db-267,Db-268',
         # Interesting Information
-        'i-info': 'The element dubnium was the subject of\n a naming controversy.'
+        'i-info': 'The element dubnium was the subject of a naming controversy.'
     },
     'Sg': {
         # Information
@@ -2053,7 +2053,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Sg-265,Sg-267,Sg-269,Sg-271',
         # Interesting Information
-        'i-info': ' No observable amount of the element \nhas ever produced.'
+        'i-info': ' No observable amount of the element has ever produced.'
     },
     'Bh': {
         # Information
@@ -2070,7 +2070,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Bh-267,Bh-271,Bh-278',
         # Interesting Information
-        'i-info': 'Bohrium is one of the later\n discoveries, as it was not fully discovered\n until 1987.'
+        'i-info': 'Bohrium is one of the later discoveries, as it was not fully discovered until 1987.'
     },
     'Hs': {
         # Information
@@ -2087,7 +2087,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Hs-269,Hs-270,Hs-271',
         # Interesting Information
-        'i-info': 'Hs-269, has a half-life of \napproximately 16 seconds.'
+        'i-info': 'Hs-269, has a half-life of approximately 16 seconds.'
     },
     'Mt': {
         # Information
@@ -2104,7 +2104,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Mt-274,Mt-276,Mt-278',
         # Interesting Information
-        'i-info': 'Meitnerium has seven isotopes with\n known half-lives.'
+        'i-info': 'Meitnerium has seven isotopes with known half-lives.'
     },
     'Ds': {
         # Information
@@ -2121,7 +2121,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Ds-279,Ds-281',
         # Interesting Information
-        'i-info': ' At present, it is only used in \nresearch.'
+        'i-info': ' At present, it is only used in research.'
     },
     'Rg': {
         # Information
@@ -2138,7 +2138,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Rg-279,Rg-280,Rg-281',
         # Interesting Information
-        'i-info': 'Roentgenium would be orange metallic\n or yellow in color.'
+        'i-info': 'Roentgenium would be orange metallic or yellow in color.'
     },
     'Cn': {
         # Information
@@ -2154,7 +2154,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Cn-283,Cn-285,Cn-286',
         # Interesting Information
-        'i-info': 'Its properties are somewhat similar \nto radon.'
+        'i-info': 'Its properties are somewhat similar to radon.'
     },
     'Nh': {
         # Information
@@ -2170,7 +2170,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Nh-282,Nh-283,Nh-284',
         # Interesting Information
-        'i-info': 'A placeholder name that means \none-one-three in Latin.'
+        'i-info': 'A placeholder name that means one-one-three in Latin.'
     },
     'Fl': {
         # Information
@@ -2187,7 +2187,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Fl-284,Fl-285,Fl-286',
         # Interesting Information
-        'i-info': 'It currently has no uses outside \nof basic scientific research.'
+        'i-info': 'It currently has no uses outside of basic scientific research.'
     },
     'Mc': {
         # Information
@@ -2203,7 +2203,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Mc-287,Mc-288,Mc-289,Mc-290',
         # Interesting Information
-        'i-info': 'The element had previously been\n designated ununpentium.'
+        'i-info': 'The element had previously been designated ununpentium.'
     },
     'Lv': {
         # Information
@@ -2219,7 +2219,7 @@ elements_info = {
         # Isotopes
         'Isotopes': 'Lv-290,Lv-291,Lv-292',
         # Interesting Information
-        'i-info': 'Livermorium was created by scientists\n at the Joint Institute for Nuclear \nResearch in Dubna.'
+        'i-info': 'Livermorium was created by scientists at the Joint Institute for Nuclear Research in Dubna.'
     },
     'Ts': {
         # Information

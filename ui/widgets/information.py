@@ -229,7 +229,7 @@ class InformationWindow():
         iso = tk.StringVar()
         iso = self.elements[self.symbolv.get()]['Isotopes']
         eleiso = tk.Label(labelframe6, text=iso)
-        eleiso.configure(background='#ffffff', foreground='#000000')
+        eleiso.configure(background='#ffffff', foreground='#000000', wraplength=220, justify='left')
         eleiso.place(x=0, y=0)
         okbtn = tk.Button(symbolr, text='Ok', pady=10)
         okbtn.configure(background='#ffffff', foreground='#000000', anchor='s')
